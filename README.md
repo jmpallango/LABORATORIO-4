@@ -33,10 +33,28 @@ Viernes 1 de julio de 2022
 
 General:
 
-Demostrar y explicar sobre los nodos al momento de armar un circuito tanto en el simulador Tinkercad como en el protoboard.  
+Analizar y comprobar el Teorema de Superposición con respecto a los voltajes y corrientes de un circuito, utilizando el simulador TinkerCad El cual ayudara a comprobar los datos teóricos obtenidos.
 
 Especificos:
 
-.Demostrar a travez del simulador Tinkercad la manera de armar un circuito y obtener de ella los nodos principales.
+-Identificar y comparar los diferentes datos obtenidos de manera teórica y del simulador TinkerCad del circuito mixto.
 
-.Explicar a travez del circuito armado en el protoboard el analisis de los nodos y comparar los resultados obtenidos con el simulador. 
+-Comprender el uso de la ley de Kirchhoff y como aplicarlo dentro de un circuito mixto que permitan la localización de falla o del margen de error.
+
+# MARCO TEORICO:
+
+# EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS:
+
+# VIDEO:
+
+# CONCLUSIONES:
+
+# BIBLIOGRAFÍA:
+
+Floyd, T. (2007). Principios de circuitos eléctricos. PEARSON Educación. https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
+
+Rubrica:
+
+![image](https://user-images.githubusercontent.com/105695077/169549221-6a6d7d81-301f-4ae6-adad-f0a59a65b83e.png)
+
+
