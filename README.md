@@ -81,7 +81,7 @@ el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
 ![image](https://user-images.githubusercontent.com/105695077/176920923-ea251f7d-33f5-4e5a-a1c5-e5d338a2747a.png)
 
-
+![image](https://user-images.githubusercontent.com/105695077/176921813-82de0587-ab77-435e-977a-16045d33b1aa.png)
 
 Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente
 IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
