@@ -49,6 +49,42 @@ Especificos:
 
 # EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS:
 
+Uno de los métodos que se aplica en el análisis de circuitos eléctricos que cuentan
+con varias fuentes, es el Teorema de Superposición que establece que:
+
+El voltaje o corriente a través de cualquier elemento del circuito puede obtenerse
+sumando algebraicamente todos los voltajes o corrientes individuales generados por
+cada fuente actuando por sí sola, con todas las demás fuentes igualadas a cero.
+
+Las fuentes de voltaje igualadas a cero equivalen a un corto circuito, mientras que
+las fuentes de corriente igualadas a cero equivalen a un circuito abierto.
+
+![image](https://user-images.githubusercontent.com/105695077/176817529-31031464-a79d-4d1b-a05c-a6de5e197b02.png)
+
+PROCEDIMIENTO:
+
+Arme el circuito que se muestra en la figura 4.1.
+
+![image](https://user-images.githubusercontent.com/105695077/176817714-c38ccb38-907e-4b0c-829a-7652026048b8.png)
+
+Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando
+tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote
+el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+
+Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente
+IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
+proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+
+Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente
+IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
+proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+
+Verifique el cumplimiento del Teorema de Superposición y compare los
+resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus
+conclusiones.
+
+Calcular errores de las mediciones y comentar los resultados.
+
 # VIDEO:
 
 # CONCLUSIONES:
