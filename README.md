@@ -91,6 +91,10 @@ Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corr
 IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se
 proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
 
+![image](https://user-images.githubusercontent.com/105695077/176921973-a4c30a33-47ec-4339-9c64-4d53c14d91ca.png)
+![image](https://user-images.githubusercontent.com/105695077/176922186-7a965097-405c-48fe-bf9e-d907e076e616.png)
+![image](https://user-images.githubusercontent.com/105695077/176922206-2551995e-549f-4a8a-9c0f-eacf27b99ba8.png)
+
 Verifique el cumplimiento del Teorema de Superposición y compare los
 resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus
 conclusiones.
