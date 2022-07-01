@@ -67,6 +67,14 @@ Arme el circuito que se muestra en la figura 4.1.
 
 ![image](https://user-images.githubusercontent.com/105695077/176817714-c38ccb38-907e-4b0c-829a-7652026048b8.png)
 
+![image](https://user-images.githubusercontent.com/105695077/176919532-feab710d-b7eb-416d-bb2c-f6e23e140583.png)
+
+![image](https://user-images.githubusercontent.com/105695077/176919569-5c7e4a3c-bc1d-49c7-8411-082240e7c7ea.png)
+
+![image](https://user-images.githubusercontent.com/105695077/176919602-ecb87436-e574-4e93-bc03-351828071756.png)
+
+![image](https://user-images.githubusercontent.com/105695077/176919621-b863b192-e4d8-438c-aba9-46ade21de8d5.png)
+
 Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando
 tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote
 el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
