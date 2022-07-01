@@ -94,6 +94,7 @@ proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivam
 ![image](https://user-images.githubusercontent.com/105695077/176921973-a4c30a33-47ec-4339-9c64-4d53c14d91ca.png)
 ![image](https://user-images.githubusercontent.com/105695077/176922186-7a965097-405c-48fe-bf9e-d907e076e616.png)
 ![image](https://user-images.githubusercontent.com/105695077/176922206-2551995e-549f-4a8a-9c0f-eacf27b99ba8.png)
+![image](https://user-images.githubusercontent.com/105695077/176922428-3dd5f232-2ec8-416b-9e2d-50a449a61635.png)
 
 Verifique el cumplimiento del Teorema de Superposición y compare los
 resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus
