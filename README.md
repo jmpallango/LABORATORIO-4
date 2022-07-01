@@ -89,6 +89,10 @@ Calcular errores de las mediciones y comentar los resultados.
 
 # CONCLUSIONES:
 
+-El propósito de realizar la superposición es hallar el valor de la corriente con una sola fuente, es decir, demostrar que al calcular el voltaje en A con la corriente de una sola fuente y sumarla con el resultado que se realizó con la corriente de la otra fuente daba el valor del voltaje en A obtenido por separado y realizar la suma algebraica de aquellas para obtener la corriente real del circuito con las dos fuentes.
+
+-Los resultados de la superposición son similares a los valores obtenidos en el simulador y el teorema de superposición nos ayudo a encontrar la corriente.
+
 # BIBLIOGRAFÍA:
 
 Floyd, T. (2007). Principios de circuitos eléctricos. PEARSON Educación. https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
